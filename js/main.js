@@ -1,7 +1,7 @@
     //var param;
 	//param = 'show-4';
     //alert(param);
-	alert 'Slonnss!';
+	//alert 'Slonnss!';
 	
 
 (function (window, $) {
